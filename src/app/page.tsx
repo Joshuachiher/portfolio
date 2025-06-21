@@ -1,5 +1,4 @@
 import ThemeToggle from "@/components/themeToggle";
-import About from "@/app/about/page";
 
 export default function Home() {
   const year = new Date().getFullYear();
