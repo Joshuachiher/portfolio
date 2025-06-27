@@ -6,17 +6,17 @@ export default function Home() {
     {
       title: "Personal Portfolio Website",
       description: "Website portofolio saya menggunakan Next.js dan Tailwind CSS.",
-      link: "https://your-portfolio.vercel.app",
+      link: "portfolio-joshua1.vercel.app",
     },
     {
-      title: "Todo App",
-      description: "Aplikasi pencatatan tugas menggunakan React dan TypeScript.",
-      link: "https://github.com/yourusername/todo-app",
+      title: "Project_lifestyle",
+      description: "Website Project_lifestyle menggunakan crud",
+      link: "https://github.com/Joshuachiher/Project_lifestyle",
     },
     {
-      title: "REST API with Node.js",
-      description: "Membangun REST API menggunakan Node.js dan Express.",
-      link: "https://github.com/yourusername/rest-api",
+      title: "Agile-Ecommerce",
+      description: "Website E commerce.",
+      link: "https://github.com/Joshuachiher/agile-commerce-forge",
     },
   ];
 
