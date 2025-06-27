@@ -6,7 +6,7 @@ export default function Home() {
     {
       title: "Personal Portfolio Website",
       description: "Website portofolio saya menggunakan Next.js dan Tailwind CSS.",
-      link: "portfolio-joshua1.vercel.app",
+      link: "https://portfolio-joshua1.vercel.app/",
     },
     {
       title: "Project_lifestyle",
